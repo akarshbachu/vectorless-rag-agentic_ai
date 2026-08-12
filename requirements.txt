@@ -1,0 +1,6 @@
+python-dotenv
+langchain
+langchain_community
+langchain-groq
+pageindex
+ipykernel
